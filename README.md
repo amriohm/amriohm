@@ -1,16 +1,53 @@
-## Hi there 👋
+# Abdulaziz Alamri
 
-<!--
-**amriohm/amriohm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineer | Software Development | Data | AI | Automation
 
-Here are some ideas to get you started:
+Computer Engineer focused on building practical solutions through software
+development, data analytics, automation, and emerging AI technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+**Programming & Data**  
+Python · SQL · Power BI · Excel · R
+
+**Systems & IT**  
+Windows · Linux · Microsoft 365 · PowerShell · Bash · VMware · VirtualBox
+
+**Networking & Security**  
+TCP/IP · DNS · DHCP · VPN · Network Troubleshooting · Network Configuration
+
+**Development & Tools**  
+Git · GitHub · Postman · Selenium · Microsoft Azure
+
+---
+
+## 🚀 Featured Project
+
+### Sales Data Analysis
+
+A data analytics project focused on transforming raw sales data into
+meaningful business insights using Python, SQL, and Power BI.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Engineering**  
+King Khalid University
+
+---
+
+## 📜 Certifications
+
+- Google IT Support Professional Certificate
+- Google Data Analytics Professional Certificate
+- HCIA-Security
+- OpenEDG Python Programming
+
+---
+
+## 📫 Connect
+
+[LinkedIn](https://linkedin.com/in/amriohm)

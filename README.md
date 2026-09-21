@@ -1,53 +1,31 @@
-# ABDULAZIZ ALAMRI
+ABDULAZIZ ALAMRI
+Computer Engineer | Software Development | Automation | Networking
 
-### Computer Engineer | Software Development | Data | Automation
+Computer Engineer focused on building practical solutions through software development, data analytics, automation, and networking.
 
-Computer Engineer focused on building practical solutions through software
-development, data analytics, automation, and emerging AI technologies.
-
----
-
-## 🛠️ Skills
-
-**Programming & Data**  
+🛠️ Skills
+Programming & Data
 Python · SQL · Power BI · Excel · R
 
-**Systems & IT**  
+Systems & IT
 Windows · Linux · Microsoft 365 · PowerShell · Bash · VMware · VirtualBox
 
-**Networking & Security**  
-TCP/IP · DNS · DHCP · VPN · Network Troubleshooting · Network Configuration
+Networking & Security
+TCP/IP · DNS · DHCP · VLAN · STP · OSPF · EIGRP · ACL · NAT · VPN · Wireless · Cisco IOS · Network Troubleshooting
 
-**Development & Tools**  
+Development & Tools
 Git · GitHub · Postman · Selenium · Microsoft Azure
 
----
+🚀 Featured Projects
+CCNA Command Guide
+A structured 3-part Cisco IOS command reference covering VLANs, STP, ACL, NAT, OSPF, EIGRP, VPN, and Wireless — designed for fast exam review.
 
-## 🚀 Featured Project
-
-### Sales Data Analysis
-
-A data analytics project focused on transforming raw sales data into
-meaningful business insights using Python, SQL, and Power BI.
-
----
-
-## 🎓 Education
-
-**Bachelor of Computer Engineering**  
+🎓 Education
+Bachelor of Computer Engineering
 King Khalid University
 
----
-
-## 📜 Certifications
-
-- Google IT Support Professional Certificate
-- Google Data Analytics Professional Certificate
-- HCIA-Security
-- OpenEDG Python Programming
-
----
-
-## 📫 Connect
-
-[LinkedIn](https://linkedin.com/in/amriohm)
+📜 Certifications
+* Google IT Support Professional Certificate
+* Google Data Analytics Professional Certificate
+* HCIA-Security
+* OpenEDG Python Programming

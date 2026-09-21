@@ -1,31 +1,49 @@
-ABDULAZIZ ALAMRI
-Computer Engineer | Software Development | Automation | Networking
+# Hi, I'm Abdulaziz Alamri 👋
 
-Computer Engineer focused on building practical solutions through software development, data analytics, automation, and networking.
+**Computer Engineer** | Software Development · Automation · Networking
 
-🛠️ Skills
-Programming & Data
-Python · SQL · Power BI · Excel · R
+I focus on building practical solutions through software, data analytics, automation, and networking.
 
-Systems & IT
-Windows · Linux · Microsoft 365 · PowerShell · Bash · VMware · VirtualBox
+---
 
-Networking & Security
-TCP/IP · DNS · DHCP · VLAN · STP · OSPF · EIGRP · ACL · NAT · VPN · Wireless · Cisco IOS · Network Troubleshooting
+### 🛠️ Skills
 
-Development & Tools
-Git · GitHub · Postman · Selenium · Microsoft Azure
+**Programming & Data**  
+`Python` · `SQL` · `Power BI` · `Excel` · `R`
 
-🚀 Featured Projects
-CCNA Command Guide
+**Systems & IT**  
+`Windows` · `Linux` · `Microsoft 365` · `PowerShell` · `Bash` · `VMware` · `VirtualBox`
+
+**Networking & Security**  
+`TCP/IP` · `DNS` · `DHCP` · `VLAN` · `STP` · `OSPF` · `EIGRP` · `ACL` · `NAT` · `VPN` · `Wireless` · `Cisco IOS`
+
+**Development & Tools**  
+`Git` · `GitHub` · `Postman` · `Selenium` · `Microsoft Azure`
+
+---
+
+### 🚀 Featured Projects
+**[CCNA Command Guide](https://github.com/USERNAME/ccna-command-guide)**  
 A structured 3-part Cisco IOS command reference covering VLANs, STP, ACL, NAT, OSPF, EIGRP, VPN, and Wireless — designed for fast exam review.
 
-🎓 Education
-Bachelor of Computer Engineering
+---
+
+### 🎓 Education
+
+**Bachelor of Computer Engineering**  
 King Khalid University
 
-📜 Certifications
-* Google IT Support Professional Certificate
-* Google Data Analytics Professional Certificate
-* HCIA-Security
-* OpenEDG Python Programming
+---
+
+### 📜 Certifications
+
+- Google IT Support Professional Certificate  
+- Google Data Analytics Professional Certificate  
+- HCIA-Security  
+- OpenEDG Python Programming  
+
+---
+
+### 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/amriohm) · [GitHub](https://github.com/amriohm)

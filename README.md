@@ -1,6 +1,7 @@
 # Hi, I'm Abdulaziz Alamri 👋
 
-**Computer Engineer** | Software Development · Automation · Networking
+**Computer Engineer** | Software Development · IT Infrastructure & Data Analytics · Networking
+
 
 I focus on building practical solutions through software, data analytics, automation, and networking.
 

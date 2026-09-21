@@ -23,7 +23,7 @@ I focus on building practical solutions through software, data analytics, automa
 ---
 
 ### 🚀 Featured Projects
-**[CCNA Command Guide](https://github.com/USERNAME/ccna-command-guide)**  
+**[CCNA Command Guide](https://github.com/amriohm/ccna-command-guide)**  
 A structured 3-part Cisco IOS command reference covering VLANs, STP, ACL, NAT, OSPF, EIGRP, VPN, and Wireless — designed for fast exam review.
 
 ---

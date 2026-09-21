@@ -1,4 +1,4 @@
-# Abdulaziz Alamri
+# ABDULAZIZ ALAMRI
 
 ### Computer Engineer | Software Development | Data | Automation
 

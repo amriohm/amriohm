@@ -1,6 +1,6 @@
 # Abdulaziz Alamri
 
-### Computer Engineer | Software Development | Data | AI | Automation
+### Computer Engineer | Software Development | Data | Automation
 
 Computer Engineer focused on building practical solutions through software
 development, data analytics, automation, and emerging AI technologies.
